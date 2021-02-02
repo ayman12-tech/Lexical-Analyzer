@@ -1,0 +1,2 @@
+#inputoutput.s
+display ( 4 *mul* $var +plus+ 1 )
